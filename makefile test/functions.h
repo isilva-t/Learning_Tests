@@ -1,4 +1,4 @@
 const char *get_message()
 {
-	return ("Hello World \n");
+	return ("Hello Test \n");
 }
